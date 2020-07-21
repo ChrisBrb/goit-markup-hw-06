@@ -876,13 +876,14 @@ fill: var(--accent-text-color);
     0px 1px 3px rgba(0, 0, 0, 0.12);
   border-radius: 4px;
 }
+
 .close-button {
   position: absolute;
   top: 8px;
   right: 8px;
   width: 30px;
   height: 30px;
-
+  
   background-color: var(--primary-white-color);
   padding: 0;
   border: 1px solid rgba(0, 0, 0, 0.1);
